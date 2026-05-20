@@ -1,0 +1,23 @@
+# Core
+torch>=2.1.0
+torchvision>=0.16.0
+
+# Transformers & PEFT
+transformers>=4.45.0
+peft>=0.13.0
+accelerate>=0.34.0
+
+# Quantization
+bitsandbytes>=0.43.0
+
+# Dataset
+datasets>=2.20.0
+
+# Qwen2-VL
+qwen-vl-utils>=0.0.8
+
+# Visualization
+matplotlib>=3.7.0
+
+# Misc
+Pillow>=10.0.0
